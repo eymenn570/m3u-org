@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KaradenizFM.tr" tvg-name="Karadeniz FM" group-title="music" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/karadeniz-fm.jpg", KARADENIZ FM
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-id="RADYODESiBEL.tr" tvg-name="RADYO Desibel" group-title="music" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-desibel.jpg", RADYO Desibel
+https://www.radyodesibel.com/stream.php/;stream.mp3
+#EXTINF:-1 tvg-id="KOCATEPERADYO.tr" tvg-name="KOCATEPE RADYO" group-title="music" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-kocatepe.jpg", KOCATEPE RADYO
+https://radyo.aku.edu.tr/radyo?/;stream.mp3
