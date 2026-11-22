@@ -5,3 +5,8 @@ https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 https://www.radyodesibel.com/stream.php/;stream.mp3
 #EXTINF:-1 tvg-id="KOCATEPERADYO.tr" tvg-name="KOCATEPE RADYO" group-title="music" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-kocatepe.jpg", KOCATEPE RADYO
 https://radyo.aku.edu.tr/radyo?/;stream.mp3
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" group-title="ULUSAL" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-1-televizyon-kanali.4c9c3dd.png", TRT 1 [1440p]
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="360tv.tr" tvg-name="360 tv" group-title="yeşilçam" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_205.png?v=3", 360 TV (1089p]
+https://turkmedya-live.ercdn.net/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="TAYTV.tr" tvg-name="TAYTV" group-title="AT Yarışları" tvg-logo="
